@@ -1,7 +1,7 @@
 /*
  * main.js
  *
- * Sevilla game viewer. (C) 2007-2017 JBF Software.
+ * Sevilla game viewer. (C) 2007-2021 JBF Software.
  * Written by JP Hendriks.
  *
  * The use of this code is permitted only with Sevilla generated web sites.
@@ -32,14 +32,14 @@ function GameViewer(pname, config, moves)
 	this.b = new Board(config);
 	this.g = new Game(this, config, moves, this.b);
 	this.notationWindow = null;
-	document.write("<table id=\"JBFViewer\" class=\"GameTable\">");
+	document.write("<div id=\"JBFViewer\" class=\"GameTable IVFlex\">");
 	this.drawHeaderRow();
 	switch (config.mvlstpos)
 	{
 	case "bottom":	this.drawRowsContent(); break;
 	default:		this.drawClassicContent();
 	}
-	document.write("</table>\n");
+	document.write("</div>\n");
 	this.handleFirst();
 //	adjustParentSize();
 	if (config.haveClose)
@@ -50,78 +50,83 @@ function GameViewer(pname, config, moves)
 
 GameViewer.prototype.drawRowsContent = function()
 {
-	document.write("<tr><td class=\"Board\" valign=\"top\">");
+	document.write("<div class=\"Board\" valign=\"top\">");
 	this.b.setupHtml();
-	document.write("</td></tr>");
+	document.write("</div>");
 	this.writeControlRow();
-	document.write("<tr><td><div id=\""+this.vname+"_MoveListContainer\" class=\"MoveListContainerRows\">");
+	document.write("<div id=\""+this.vname+"_MoveListContainer\" class=\"MoveListContainerRows Unit\">");
 	this.g.setupHtml();
-	document.write("</div></td></tr>\n");
+	document.write("</div>\n");
 }
 
 GameViewer.prototype.drawClassicContent = function()
 {
-	document.write("<tr><td class=\"Board\" valign=\"top\">");
+	document.write("<div class=\"HFlex\">");
+	document.write("<div class=\"VFlex Unit\">");
+	document.write("<div class=\"Board\" valign=\"top\">");
 	this.b.setupHtml();
-	document.write("</td>\n<td><div id=\""+this.vname+"_MoveListContainer\" class=\"MoveListContainer\">");
-	this.g.setupHtml();
-	document.write("</div></td></tr>\n");
+	document.write("</div>\n");
 	this.writeControlRow();
+	document.write("</div>\n");
+	document.write("<div id=\""+this.vname+"_MoveListContainer\" class=\"MoveListContainer Unit\">");
+	this.g.setupHtml();
+	document.write("</div>\n");
+	document.write("</div>\n");
 }
 
 GameViewer.prototype.drawHeaderRow = function()
 {
-	document.write("<tr><td colspan=\"2\" class=\"GameData\">");
+	document.write("<div class=\"GameData\">");
 	this.b.setupData();
 	if (this.config.haveClose)
 	{
 		document.write(
 			"<img id=\""+this.vname+"_navClose\" onclick=\"handleClose()\" src=\""+this.config.scriptdir+"/closebi.gif\" alt=\""+ this.config.close+ "\" align=\"right\"/>");
 	}
-	document.write("</td></tr>\n");
+	document.write("</div>\n");
 }
 
 GameViewer.prototype.writeControlRow = function()
 {
-	document.write("<tr><td id=\"NavigatePanel\" align=\"center\"><div id=\"NavigateArea\">");
+	document.write("<div id=\"NavigatePanel\">");
 	this.setupNavigation();
-	document.write("</div></td>");
-	document.write("<td align=\"center\" class=\"PGNLink\">");
-	if (this.config.pgnurl.length <= 0)
-		document.write("&nbsp;");
-	else
-		document.write("<a href=\"" + this.config.pgnurl + "\" target=\"_blank\" class=\"PGNLink\">" + this.config.pgn + "</a>")
-	document.write("</td></tr>\n");
+	document.write("</div>\n");
 }
 
 GameViewer.prototype.setupNavigation = function()
 {
-	document.write("<table><tr>");
-	document.write("<td>" +
+	document.write("<div id=\"NavigateArea\" class=\"HFlex\">");
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navFirst\" class=\"Navigate\" src=\""+this.config.scriptdir+"/first.gif\" alt=\""+ this.config.first+ "\" />" +
-		"</td>");
+		"</span>");
 	setFirst(document.getElementById(this.vname+"_navFirst"),this);
-	document.write("<td>" +
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navPrevious\" class=\"Navigate\" src=\""+this.config.scriptdir+"/previous.gif\" alt=\""+ this.config.previous+ "\" />" +
-		"</td>");
+		"</span>");
 	setPrevious(document.getElementById(this.vname+"_navPrevious"),this);
-	document.write("<td>" +
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navNext\" class=\"Navigate\" src=\""+this.config.scriptdir+"/next.gif\" alt=\""+ this.config.next+ "\" />" +
-		"</td>");
+		"</span>");
 	setNext(document.getElementById(this.vname+"_navNext"),this);
-	document.write("<td>" +
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navLast\" class=\"Navigate\" src=\""+this.config.scriptdir+"/last.gif\" alt=\""+ this.config.last+ "\" />" +
-		"</td>");
+		"</span>");
 	setLast(document.getElementById(this.vname+"_navLast"),this);
-	document.write("<td>" +
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navFlip\" class=\"Navigate\" src=\""+this.config.scriptdir+"/flip.gif\" alt=\""+ this.config.flip+ "\" />" +
-		"</td>");
+		"</span>");
 	setFlip(document.getElementById(this.vname+"_navFlip"),this);
-	document.write("<td>" +
+	document.write("<span>" +
 		"<img id=\""+this.vname+"_navNotation\" class=\"Navigate\" src=\""+this.config.scriptdir+"/not.gif\" alt=\""+ this.config.notation+ "\" />" +
-		"</td>");
+		"</span>");
 	setNotation(document.getElementById(this.vname+"_navNotation"),this);
-	document.write("</tr></table>");
+	if (this.config.pgnurl.length > 0)
+	{
+		document.write("<span><a href=\"" + this.config.pgnurl + "\" target=\"_blank\">" +
+			"<img id=\""+this.vname+"_navDownload\" class=\"Navigate\" src=\""+this.config.scriptdir+"/download.gif\" alt=\""+ this.config.pgn+ "\" />" +
+			"</a></span>")
+	}
+	document.write("</div>");
 }
 
 GameViewer.prototype.handleFirst = function()

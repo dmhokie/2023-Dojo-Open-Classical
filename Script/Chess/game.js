@@ -1,7 +1,7 @@
 /*
  * game.js
  *
- * Sevilla game viewer. (C) 2007-2021 JBF Software.
+ * Sevilla game viewer. (C) 2007-2022 JBF Software.
  * Written by JP Hendriks.
  *
  * The use of this code is permitted only with Sevilla generated web sites.
@@ -393,6 +393,9 @@ Move.CH_NONE = 0;
 Move.CH_CHECK = 1;
 Move.CH_CHECKMATE = 2;
 
+Move.MV_ALL = 1;
+Move.MV_PROM = 2;
+Move.MV_NORM = 3;
 
 Move.prototype.parseMove = function(mvtxt)
 {
@@ -723,27 +726,82 @@ Move.prototype.moveStrNoCast = function()
 	return(s);
 }
 
+Move.prototype.symChar = function(p)
+{
+	var r = '';
+	switch(p)
+	{
+		case Field.PC_KING:		r = Field.SYM_KING; break;
+		case Field.PC_QUEEN:	r = Field.SYM_QUEEN; break;
+		case Field.PC_ROOK:		r = Field.SYM_ROOK; break;
+		case Field.PC_BISHOP:	r = Field.SYM_BISHOP; break;
+		case Field.PC_KNIGHT:	r = Field.SYM_KNIGHT; break;
+		case Field.PC_PAWN:		r = Field.SYM_PAWN; break;
+	}
+	return(r);
+}
+
+Move.prototype.dispCh = function(p)
+{
+	var r = '';
+	switch(p)
+	{
+		case Field.PC_KING:		r = Field.DISP_KING; break;
+		case Field.PC_QUEEN:	r = Field.DISP_QUEEN; break;
+		case Field.PC_ROOK:		r = Field.DISP_ROOK; break;
+		case Field.PC_BISHOP:	r = Field.DISP_BISHOP; break;
+		case Field.PC_KNIGHT:	r = Field.DISP_KNIGHT; break;
+		case Field.PC_PAWN:		r = Field.DISP_PAWN; break;
+	}
+	if (r == '*' || r == '1')
+	{
+		if (this.moveColor == Field.CL_BLACK)
+		{
+			switch(p)
+			{
+				case Field.PC_KING:		r = '\u265A'; break;
+				case Field.PC_QUEEN:	r = '\u265B'; break;
+				case Field.PC_ROOK:		r = '\u265C'; break;
+				case Field.PC_BISHOP:	r = '\u265D'; break;
+				case Field.PC_KNIGHT:	r = '\u265E'; break;
+				case Field.PC_PAWN:		r = '\u265F'; break;
+			}
+		}
+		else
+		{
+			switch(p)
+			{
+				case Field.PC_KING:		r = '\u2654'; break;
+				case Field.PC_QUEEN:	r = '\u2655'; break;
+				case Field.PC_ROOK:		r = '\u2656'; break;
+				case Field.PC_BISHOP:	r = '\u2657'; break;
+				case Field.PC_KNIGHT:	r = '\u2658'; break;
+				case Field.PC_PAWN:		r = '\u2659'; break;
+			}
+		}
+	}
+	return(r);
+}
+
+Move.prototype.displayChar = function(p, mode)
+{
+	var r = '';
+	switch(p)
+	{
+		case Field.PC_KING:		if (mode != Move.MV_PROM) r = this.dispCh(p); break;
+		case Field.PC_PAWN:		if (mode == Move.MV_ALL) r = this.dispCh(p); break;
+		default:				r = this.dispCh(p); break;
+	}
+	return(r);
+}
+
 Move.prototype.shortNotation = function()
 {
 	var str = this.moveText;
-	switch (this.piece)
+	str = str.replace(this.symChar(this.piece), this.displayChar(this.piece,Move.MV_NORM));
+	if (this.promPiece != this.piece)
 	{
-		case Field.PC_KING:		str = str.replace(Field.SYM_KING, Field.DISP_KING); break;
-		case Field.PC_QUEEN:	str = str.replace(Field.SYM_QUEEN, Field.DISP_QUEEN); break;
-		case Field.PC_ROOK:		str = str.replace(Field.SYM_ROOK, Field.DISP_ROOK); break;
-		case Field.PC_BISHOP:	str = str.replace(Field.SYM_BISHOP, Field.DISP_BISHOP); break;
-		case Field.PC_KNIGHT:	str = str.replace(Field.SYM_KNIGHT, Field.DISP_KNIGHT); break;
-		case Field.PC_PAWN:		str = str.replace(Field.SYM_PAWN, Field.DISP_PAWN); break;
-	}
-	if (this.prompiece != this.piece)
-	{
-		switch (this.prompiece)
-		{
-			case Field.PC_QUEEN:	str = str.replace(Field.SYM_QUEEN, Field.DISP_QUEEN); break;
-			case Field.PC_ROOK:		str = str.replace(Field.SYM_ROOK, Field.DISP_ROOK); break;
-			case Field.PC_BISHOP:	str = str.replace(Field.SYM_BISHOP, Field.DISP_BISHOP); break;
-			case Field.PC_KNIGHT:	str = str.replace(Field.SYM_KNIGHT, Field.DISP_KNIGHT); break;
-		}
+		str = str.replace(this.symChar(this.promPiece), this.displayChar(this.promPiece,Move.MV_PROM));
 	}
 	return(str);
 }
@@ -751,15 +809,7 @@ Move.prototype.shortNotation = function()
 Move.prototype.longNotation = function()
 {
 	var str;
-	switch (this.piece)
-	{
-		case Field.PC_KING:		str = Field.DISP_KING; break;
-		case Field.PC_QUEEN:	str = Field.DISP_QUEEN; break;
-		case Field.PC_ROOK:		str = Field.DISP_ROOK; break;
-		case Field.PC_BISHOP:	str = Field.DISP_BISHOP; break;
-		case Field.PC_KNIGHT:	str = Field.DISP_KNIGHT; break;
-		default:				str = "";
-	}
+	str = this.displayChar(this.piece, Move.MV_NORM);
 	str += String.fromCharCode(Board.FIRSTFILE+this.fromFile);
 	str += String.fromCharCode(Board.FIRSTRANK+this.fromRank);
 	str += (this.capture) ? "x" : "-";
@@ -767,13 +817,7 @@ Move.prototype.longNotation = function()
 	str += String.fromCharCode(Board.FIRSTRANK+this.toRank);
 	if (this.promPiece != this.piece)
 	{
-		switch (this.promPiece)
-		{
-			case Field.PC_QUEEN:	str += Field.DISP_QUEEN; break;
-			case Field.PC_ROOK:		str += Field.DISP_ROOK; break;
-			case Field.PC_BISHOP:	str += Field.DISP_BISHOP; break;
-			case Field.PC_KNIGHT:	str += Field.DISP_KNIGHT; break;
-		}
+		str += this.displayChar(this.promPiece, Move.MV_PROM);
 	}
 	return str;
 }

@@ -50,14 +50,14 @@
 [Site "chess.com"]
 [Date "2023.02.06"]
 [Round "2"]
-[White "chessmonger42"]
-[Black "Beingbadatchess"]
+[White "Beingbadatchess"]
+[Black "chessmonger42"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
-[WhiteId "chessmonger42#3779"]
-[BlackId "Beingbadatchess#0811"]
-[WhiteElo "1865"]
-[BlackElo "2308"]
+[WhiteId "Beingbadatchess#0811"]
+[BlackId "chessmonger42#3779"]
+[WhiteElo "2308"]
+[BlackElo "1865"]
 
 {[%SevillaID "7213"]}
 *

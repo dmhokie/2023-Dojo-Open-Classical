@@ -1,7 +1,7 @@
 /*
  * parser.js
  *
- * Sevilla game viewer. (C) 2007-2019 JBF Software.
+ * Sevilla game viewer. (C) 2007-2022 JBF Software.
  * Written by JP Hendriks.
  *
  * The use of this code is permitted only with Sevilla generated web sites.
@@ -81,10 +81,13 @@ Parser.prototype.getSymbol = function()
 		switch(this.scansym)
 		{
 			case '{':
-				sym = this.getCommentSymbol('{', '}', ';', '');
+				sym = this.getCommentSymbol('{', '}', ';', '', true);
 				break;
 			case '[':
-				sym = this.getCommentSymbol('[', ']', '[', ']');
+				sym = this.getCommentSymbol('[', ']', '[', ']', true);
+				break;
+			case ';':
+				sym = this.getCommentSymbol(';', '\n', ';', '', false);
 				break;
 			case '/':
 				sym = this.getAlphaSymbol();
@@ -120,7 +123,7 @@ Parser.prototype.getAlphaSymbol = function()
 	return (sym);
 }
 
-Parser.prototype.getCommentSymbol = function(openSym, closeSym, startString, endstring)
+Parser.prototype.getCommentSymbol = function(openSym, closeSym, startString, endstring, nest)
 {
 	var sym = startString;
 	var incmd = false;
@@ -128,7 +131,7 @@ Parser.prototype.getCommentSymbol = function(openSym, closeSym, startString, end
 	this.nextChar();
 	while (bracketCount > 0 && this.ps<this.len)
 	{
-		if (this.scansym == openSym)
+		if (this.scansym == openSym && nest)
 				bracketCount++;
 		if (this.scansym == closeSym)
 				bracketCount--;
