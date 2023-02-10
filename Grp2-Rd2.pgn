@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Ailuropoda"]
 [Black "rubenrodrigues"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "loei#0166"]
 [BlackId "captain caralho#3969"]
@@ -28,7 +28,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "7239"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "2"]
 [White "headcanon"]
 [Black "Invincible david"]
-[Result "*"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "headcanon#2403"]
 [BlackId "Invincible"]
@@ -172,7 +172,7 @@
 [BlackElo "1724"]
 
 {[%SevillaID "7223"]}
-*
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -404,7 +404,7 @@
 [Round "2"]
 [White "Pre-Successful"]
 [Black "MerisVitija"]
-[Result "*"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "MaximumDerek#9119"]
 [BlackId "MerisVitija#0809"]
@@ -412,7 +412,7 @@
 [BlackElo "2007"]
 
 {[%SevillaID "7211"]}
-*
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -484,7 +484,7 @@
 [Round "2"]
 [White "SafuyaRedemptionArc"]
 [Black "benjies69"]
-[Result "*"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Safuya#7702"]
 [BlackId "bigbenjies#7154"]
@@ -492,7 +492,7 @@
 [BlackElo "1207"]
 
 {[%SevillaID "7234"]}
-*
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -500,7 +500,7 @@
 [Round "2"]
 [White "squarezou"]
 [Black "lux-kineck"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Leavzou#6109"]
 [BlackId "LUX-KINECK #3261"]
@@ -508,7 +508,7 @@
 [BlackElo "1752"]
 
 {[%SevillaID "7225"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]

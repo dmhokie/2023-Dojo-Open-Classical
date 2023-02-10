@@ -180,7 +180,7 @@
 [Round "1"]
 [White "chavezo"]
 [Black "Goenaga"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "oscar231#0537"]
 [BlackId "Goenaga9474"]
@@ -188,7 +188,7 @@
 [BlackElo "923"]
 
 {[%SevillaID "6967"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -205,38 +205,6 @@
 
 {[%SevillaID "7006"]}
 0-0
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.01.30"]
-[Round "1"]
-[White "dwayneinnashville"]
-[Black "crooney314"]
-[Result "1-0"]
-[Section "Group A (NA/SA)"]
-[WhiteId "dwayne.hoffman#1643"]
-[BlackId "charlie314#7930"]
-[WhiteElo "1330"]
-[BlackElo "1334"]
-
-{[%SevillaID "7001"]}
-1-0
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.01.30"]
-[Round "1"]
-[White "peadarriley"]
-[Black "DCGrindr"]
-[Result "0-1"]
-[Section "Group A (NA/SA)"]
-[WhiteId "Peadar#2594"]
-[BlackId "DCGrindr#3482"]
-[WhiteElo "685"]
-[BlackElo "685"]
-
-{[%SevillaID "6953"]}
-0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -300,6 +268,22 @@
 [BlackElo "1683"]
 
 {[%SevillaID "6970"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.01.30"]
+[Round "1"]
+[White "dwayneinnashville"]
+[Black "crooney314"]
+[Result "1-0"]
+[Section "Group A (NA/SA)"]
+[WhiteId "dwayne.hoffman#1643"]
+[BlackId "charlie314#7930"]
+[WhiteElo "1330"]
+[BlackElo "1334"]
+
+{[%SevillaID "7001"]}
 1-0
 
 [Event "2023 Dojo Open Classical"]
@@ -436,7 +420,7 @@
 [Round "1"]
 [White "hailbo"]
 [Black "K6RQT"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "hailbo#6804"]
 [BlackId "K6RQT#4101"]
@@ -444,7 +428,23 @@
 [BlackElo "1032"]
 
 {[%SevillaID "6975"]}
-0-0
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.01.30"]
+[Round "1"]
+[White "happy_pieces"]
+[Black "luisefren01"]
+[Result "1-0"]
+[Section "Group A (NA/SA)"]
+[WhiteId "pastpeak#0846"]
+[BlackId "#0865"]
+[WhiteElo "1192"]
+[BlackElo "1179"]
+
+{[%SevillaID "6989"]}
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -540,22 +540,6 @@
 [BlackElo "842"]
 
 {[%SevillaID "6963"]}
-1-0
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.01.30"]
-[Round "1"]
-[White "happy_pieces"]
-[Black "luisefren01"]
-[Result "1-0"]
-[Section "Group A (NA/SA)"]
-[WhiteId "pastpeak#0846"]
-[BlackId "#0865"]
-[WhiteElo "1192"]
-[BlackElo "1179"]
-
-{[%SevillaID "6989"]}
 1-0
 
 [Event "2023 Dojo Open Classical"]
@@ -733,6 +717,22 @@
 
 {[%SevillaID "6998"]}
 1/2-1/2
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.01.30"]
+[Round "1"]
+[White "peadarriley"]
+[Black "DCGrindr"]
+[Result "0-1"]
+[Section "Group A (NA/SA)"]
+[WhiteId "Peadar#2594"]
+[BlackId "DCGrindr#3482"]
+[WhiteElo "685"]
+[BlackElo "685"]
+
+{[%SevillaID "6953"]}
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
