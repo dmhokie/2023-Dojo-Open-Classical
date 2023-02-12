@@ -1,7 +1,7 @@
 /* Sevilla.css                                                */
-/* This template (C)2006-2019 JBF Software                    */
+/* This template (C)2006-2021 JBF Software                    */
 /* Created by JP Hendriks                                     */
-/* http://www.jbfsoftware.com                                 */
+/* https://www.jbfsoftware.com                                */
 /*                                                            */
 /* Default style sheet for use with webtool                   */
 /* You may freely modify this style sheet according to your   */
@@ -21,9 +21,38 @@
 /* MainTitleRow is the style for a row in the main title      */
 .MainTitleRow
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
+}
+
+/* Unit is the style for a page unit                          */
+/* used mainly to style the main boxes                        */
+.Unit
+{
+	margin: 2px;
+	font-family: helvetica, arial, serif;
+	font-size: 1em;
+	vertical-align:top;
+	border-color:grey;
+}
+
+.HFlex
+{
+	display: flex;
+	flex-direction:row;
+}
+
+.VFlex
+{
+	display: flex;
+	flex-direction:column;
+}
+
+.IVFlex
+{
+	display: inline-flex;
+	flex-direction:column;
 }
 
 /* SingleLineTitle is the overall style for the single line   */
@@ -34,13 +63,14 @@
 	border-width: thin;
 	width: 360px;
 	text-align: center;
+	padding: 2px;
 }
 
 /* SingleLineRow is the style for the row in the singleLine   */
 .SingleLineRow
 {
-	background-color: #f8f8f8;
-	font-size: 12pt;
+	background-color: #e8f8e8;
+	font-size: 1em;
 }
 
 /* MemoTitle is the overall style for the memo                */
@@ -48,13 +78,14 @@
 {
 	border-style: solid;
 	border-width: thin;
+	padding: 2px;
 }
 
 /* MemoRow is the style for the row in the memo               */
 .MemoRow
 {
-	background-color: #f8f8f8;
-	font-size: 12pt;
+	background-color: #e8f8e8;
+	font-size: 1em;
 }
 
 /* Logo is the style for the logo                             */
@@ -64,6 +95,7 @@
 	border-style: solid;
 	border-width: thin;
 	border-spacing: 0px;
+	border-color: grey;
 }
 
 .Logo img
@@ -107,8 +139,8 @@
 {
 	font-weight: bold;
 	text-align: center;
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 }
 
 /* MainTable holds the style of the main table                */
@@ -124,14 +156,17 @@
 {
 	border-style: solid;
 	border-width: thin;
-	width: 130px;
+	border-color: grey;
+	width: 135px;
 	vertical-align: top;
 }
 
 /* MenuRow is the style for a row in the menu table           */
 .MenuRow
 {
-	background-color: #f8f8f8;
+	background-color: #e8f8e8;
+	overflow:hidden;
+	margin:1px;
 }
 
 /* menu group name are additional attributes for the group    */
@@ -180,8 +215,8 @@
 {
 	font-weight: bold;
 	text-align: center;
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 }
 
 /* PlayerWebLink formats the cells where the player web links */
@@ -214,8 +249,8 @@
 /* a table with games                                         */
 .GameListHeader
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 }
 
@@ -230,7 +265,7 @@
 /* even indexes                                               */
 .GameListEvenLine
 {
-	background-color: #f8f8f8;
+	background-color: #d8f0d8;
 }
 
 /* Specific widths for the player names in the game list      */
@@ -251,8 +286,8 @@
 /* with players                                               */
 .PlayerListTitle
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 	text-align: center;
 }
@@ -261,8 +296,8 @@
 /* a table containing the list of players                     */
 .PlayerListHeader
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 }
 
@@ -277,7 +312,7 @@
 /* with even indexes                                          */
 .PlayerListEvenLine
 {
-	background-color: #f8f8f8;
+	background-color: #d8f0d8;
 }
 
 /* RankColumns is the Rank columns container - outside the    */
@@ -303,8 +338,8 @@
 /* headers                                                    */
 .RankingTitle
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 	text-align: center;
 }
@@ -313,8 +348,8 @@
 /* a table containing a ranking                               */
 .RankingHeader
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 }
 
@@ -329,53 +364,53 @@
 /* even indexes                                               */
 .RankingEvenLine
 {
-	background-color: #f8f8f8;
+	background-color: #d8f0d8;
 }
 
-/* XRefTable is the style for a table with an crosstable or   */
+/* XTable is the style for a table with an crosstable or      */
 /* similar                                                    */
-.XRefTable
+.XTable
 {
 	border-style: solid;
 	border-width: thin;
 }
 
-/* XRefHeader is the style for the header row of              */
+/* XTableHeader is the style for the header row of            */
 /* a crosstable                                               */
-.XRefHeader
+.XTableHeader
 {
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 	font-weight: bold;
 	vertical-align: bottom;
 }
 
-/* XRefOddline is the style for rows in a crosstable with     */
+/* XTableOddline is the style for rows in a crosstable with   */
 /* odd indexes                                                */
-.XRefOddLine
+.XTableOddLine
 {
 	background-color: #f8f8f8;
 }
 
-/* XRefEvenline is the style for rows in a crosstable with    */
+/* XTableEvenline is the style for rows in a crosstable with  */
 /* even indexes                                               */
-.XRefEvenLine
+.XTableEvenLine
 {
-	background-color: #f8f8f8;
+	background-color: #d8f0d8;
 }
 
-/* XRefCell is special styling for cells of a crosstable,     */
+/* XTableCell is special styling for cells of a crosstable,   */
 /* gamefile, progress chart or color chart table              */
 /* you may use this class to get a fixed width of the columns */
 /* maybe in conjunction with the table's id.                  */
-.XRefCell
+.XTableCell
 {
 }
 
-/* XRefAxis is special styling for the cells that are not     */
+/* XTableAxis is special styling for the cells that are not   */
 /* applicable, because they refer to the same player. This is */
 /* top left to bottom right diagonal.                         */
-.XRefAxis
+.XTableAxis
 {
 }
 
@@ -406,14 +441,14 @@
 	position: fixed;
 	top: 60px;
 	left: 70px;
-	width: 520px;
+	width: 500px;
 	height: 368px;
 }
 
 * html .ShowBoard
 {
 	position: absolute;
-	width: 528px;
+	width: 508px;
 	height: 376px;
 	top: expression(eval(document.body.scrollTop+70));
 }
@@ -433,6 +468,12 @@
 	background-color: #f8f8f8;
 }
 
+/* NavigateArea is the id of the block of controls            */
+#NavigateArea
+{
+	justify-content:center;
+}
+
 /* Navigate and NavigateDisabled control the format of the    */
 /* navigation buttons First, Previous, Next and Last          */
 .Navigate, .NavigateDisabled
@@ -443,6 +484,7 @@
 	padding-bottom: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
+	margin: 2px;
 	border-style: solid;
 	border-color: black;
 	border-width: thin;
@@ -472,10 +514,13 @@
 
 .GameData
 {
+	font-family: helvetica, arial, serif;
 	font-weight: bold;
+/*	font-size: calc(1em+1pt); */
+	font-size: 1em;
 	text-align: center;
-	color: #f0f0c0;
-	background-color: #306090;
+	color: #f4e8f4;
+	background-color: #188048;
 }
 
 /* Board is the overall format for the board area             */
@@ -601,7 +646,7 @@
 /* on the board.                                              */
 .SelectedMove, .SelectedMoveText
 {
-	background-color: #e0e0e0;
+	background-color: #d8f0d8;
 }
 
 /* MoveComment is the style used for displaying comments in   */
@@ -614,7 +659,7 @@
 /* Hovering modification.                                     */
 .Move:hover, .Navigate:hover, .MoveText:hover
 {
-	background-color: #e0e0e0;
+	background-color: #d8f0d8;
 }
 
 /* below are constraints for 'ordinary' html tag rendering    */
@@ -622,6 +667,7 @@
 body
 {
 	background-color: #ffffff;
+	font-size: 8pt;
 }
 
 ul
@@ -630,10 +676,20 @@ ul
 	margin-left: 10px;
 }
 
+table
+{
+	border-color:grey;
+}
+
+tbody
+{
+	vertical-align:inherit;
+}
+
 td,th
 {
 	font-family: helvetica, arial, serif;
-	font-size: 12pt;
+	font-size: 1em;
 }
 
 a
