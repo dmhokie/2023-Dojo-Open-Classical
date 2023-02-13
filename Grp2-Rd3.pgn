@@ -11,7 +11,7 @@
 [WhiteElo "1717"]
 [BlackElo "1238"]
 
-{[%SevillaID "7324"]}
+{[%SevillaID "7355"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -27,23 +27,7 @@
 [WhiteElo "1480"]
 [BlackElo "1560"]
 
-{[%SevillaID "7326"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.13"]
-[Round "3"]
-[White "benjies69"]
-[Black "wocash"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "bigbenjies#7154"]
-[BlackId "wocash#0760"]
-[WhiteElo "1207"]
-[BlackElo "1723"]
-
-{[%SevillaID "7325"]}
+{[%SevillaID "7357"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -51,15 +35,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "BredellPeter"]
-[Black "PepperChess"]
+[Black "Quincti1ius"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "PeterBredell#0610"]
-[BlackId "PepperChess#6028"]
+[BlackId "Quincti1ius#6217"]
 [WhiteElo "1172"]
-[BlackElo "760"]
+[BlackElo "1116"]
 
-{[%SevillaID "7311"]}
+{[%SevillaID "7342"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -75,7 +59,7 @@
 [WhiteElo "1472"]
 [BlackElo "1340"]
 
-{[%SevillaID "7332"]}
+{[%SevillaID "7363"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -91,7 +75,7 @@
 [WhiteElo "2284"]
 [BlackElo "1704"]
 
-{[%SevillaID "7310"]}
+{[%SevillaID "7341"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -107,7 +91,7 @@
 [WhiteElo "1645"]
 [BlackElo "1660"]
 
-{[%SevillaID "7328"]}
+{[%SevillaID "7359"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -123,7 +107,7 @@
 [WhiteElo "1600"]
 [BlackElo "1865"]
 
-{[%SevillaID "7314"]}
+{[%SevillaID "7345"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -139,7 +123,7 @@
 [WhiteElo "1914"]
 [BlackElo "1350"]
 
-{[%SevillaID "7331"]}
+{[%SevillaID "7362"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -147,15 +131,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "Deactar"]
-[Black "Orcogigi"]
+[Black "connor Gleeson"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Deactar (L,C)#5187"]
-[BlackId "Orcogigi (C,L,+2)#1312"]
+[BlackId "Connor Gleeson99"]
 [WhiteElo "1142"]
-[BlackElo "1092"]
+[BlackElo "1200"]
 
-{[%SevillaID "7319"]}
+{[%SevillaID "7352"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -163,15 +147,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "Djydjy22"]
-[Black "QSophie"]
+[Black "felixblochwitz"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Toni#9134"]
-[BlackId "SophieB#9183"]
+[BlackId "flexx#5620"]
 [WhiteElo "800"]
-[BlackElo "839"]
+[BlackElo "491"]
 
-{[%SevillaID "7307"]}
+{[%SevillaID "7338"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -187,23 +171,7 @@
 [WhiteElo "2160"]
 [BlackElo "756"]
 
-{[%SevillaID "7305"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.13"]
-[Round "3"]
-[White "felixblochwitz"]
-[Black "vim tmux"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "flexx#5620"]
-[BlackId "Ross067#8636"]
-[WhiteElo "491"]
-[BlackElo "1500"]
-
-{[%SevillaID "7303"]}
+{[%SevillaID "7336"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -219,7 +187,7 @@
 [WhiteElo "1435"]
 [BlackElo "1428"]
 
-{[%SevillaID "7329"]}
+{[%SevillaID "7360"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -235,7 +203,7 @@
 [WhiteElo "1333"]
 [BlackElo "1230"]
 
-{[%SevillaID "7330"]}
+{[%SevillaID "7361"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -251,7 +219,7 @@
 [WhiteElo "1613"]
 [BlackElo "1400"]
 
-{[%SevillaID "7312"]}
+{[%SevillaID "7343"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -267,7 +235,7 @@
 [WhiteElo "1752"]
 [BlackElo "1740"]
 
-{[%SevillaID "7308"]}
+{[%SevillaID "7339"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -283,7 +251,7 @@
 [WhiteElo "1720"]
 [BlackElo "2020"]
 
-{[%SevillaID "7316"]}
+{[%SevillaID "7347"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -291,15 +259,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "MarianTicala"]
-[Black "seimerl"]
+[Black "NowzGaming"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "xmicxmare#6002"]
-[BlackId "seimerl#2502"]
+[BlackId "NowzGaming#1469"]
 [WhiteElo "1382"]
-[BlackElo "1280"]
+[BlackElo "1100"]
 
-{[%SevillaID "7315"]}
+{[%SevillaID "7348"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -307,47 +275,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "Mouselover"]
-[Black "Bestboiprime"]
+[Black "PepperChess"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Mouselover #6248"]
-[BlackId "Yoeri#6650"]
+[BlackId "PepperChess#6028"]
 [WhiteElo "1180"]
-[BlackElo "1197"]
+[BlackElo "760"]
 
-{[%SevillaID "7313"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.13"]
-[Round "3"]
-[White "Nestfluechter"]
-[Black "Oberlus Chinaski"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Nestfluechter#1062"]
-[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
-[WhiteElo "1254"]
-[BlackElo "1170"]
-
-{[%SevillaID "7323"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.13"]
-[Round "3"]
-[White "NowzGaming"]
-[Black "Blinniz"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "NowzGaming#1469"]
-[BlackId "Blinniz"]
-[WhiteElo "1100"]
-[BlackElo "1396"]
-
-{[%SevillaID "7317"]}
+{[%SevillaID "7344"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -363,7 +299,23 @@
 [WhiteElo "1725"]
 [BlackElo "1320"]
 
-{[%SevillaID "7327"]}
+{[%SevillaID "7358"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.13"]
+[Round "3"]
+[White "Orcogigi"]
+[Black "Blinniz"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Orcogigi (C,L,+2)#1312"]
+[BlackId "Blinniz"]
+[WhiteElo "1092"]
+[BlackElo "1396"]
+
+{[%SevillaID "7350"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -371,15 +323,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "pantsi98"]
-[Black "connor Gleeson"]
+[Black "Oberlus Chinaski"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "pantsi#7205"]
-[BlackId "Connor Gleeson99"]
+[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
 [WhiteElo "1542"]
-[BlackElo "1200"]
+[BlackElo "1170"]
 
-{[%SevillaID "7321"]}
+{[%SevillaID "7354"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -395,7 +347,7 @@
 [WhiteElo "1866"]
 [BlackElo "1430"]
 
-{[%SevillaID "7322"]}
+{[%SevillaID "7353"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -411,7 +363,7 @@
 [WhiteElo "1966"]
 [BlackElo "1886"]
 
-{[%SevillaID "7302"]}
+{[%SevillaID "7333"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -427,7 +379,23 @@
 [WhiteElo "1750"]
 [BlackElo "1535"]
 
-{[%SevillaID "7320"]}
+{[%SevillaID "7351"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.13"]
+[Round "3"]
+[White "seimerl"]
+[Black "Bestboiprime"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "seimerl#2502"]
+[BlackId "Yoeri#6650"]
+[WhiteElo "1280"]
+[BlackElo "1197"]
+
+{[%SevillaID "7346"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -443,7 +411,23 @@
 [WhiteElo "1500"]
 [BlackElo "1704"]
 
-{[%SevillaID "7304"]}
+{[%SevillaID "7335"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.13"]
+[Round "3"]
+[White "vim tmux"]
+[Black "Skakikaki"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Ross067#8636"]
+[BlackId "Skakikaki#6264"]
+[WhiteElo "1500"]
+[BlackElo "968"]
+
+{[%SevillaID "7334"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -459,7 +443,7 @@
 [WhiteElo "1400"]
 [BlackElo "1922"]
 
-{[%SevillaID "7318"]}
+{[%SevillaID "7349"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -475,7 +459,23 @@
 [WhiteElo "2223"]
 [BlackElo "1869"]
 
-{[%SevillaID "7306"]}
+{[%SevillaID "7337"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.13"]
+[Round "3"]
+[White "wocash"]
+[Black "Nestfluechter"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "wocash#0760"]
+[BlackId "Nestfluechter#1062"]
+[WhiteElo "1723"]
+[BlackElo "1254"]
+
+{[%SevillaID "7356"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -483,15 +483,15 @@
 [Date "2023.02.13"]
 [Round "3"]
 [White "YogiBear07"]
-[Black "Quincti1ius"]
+[Black "QSophie"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "J R#6732"]
-[BlackId "Quincti1ius#6217"]
+[BlackId "SophieB#9183"]
 [WhiteElo "965"]
-[BlackElo "1116"]
+[BlackElo "839"]
 
-{[%SevillaID "7309"]}
+{[%SevillaID "7340"]}
 *
 
 
