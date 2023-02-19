@@ -132,7 +132,7 @@
 [Round "2"]
 [White "Cmalbert1"]
 [Black "heathcliff chess"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "cmalbert#3720"]
 [BlackId "Heathgresham"]
@@ -140,7 +140,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "7099"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -340,7 +340,7 @@
 [Round "2"]
 [White "FourOne1"]
 [Black "Mtc66"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "FourOne1#1161"]
 [BlackId "Mtc66#4570"]
@@ -348,7 +348,7 @@
 [BlackElo "1473"]
 
 {[%SevillaID "7086"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -498,22 +498,6 @@
 [Site "chess.com"]
 [Date "2023.02.06"]
 [Round "2"]
-[White "JSS05001"]
-[Black "richardzt"]
-[Result "0-1"]
-[Section "Group A (NA/SA)"]
-[WhiteId "JSS05001#5354"]
-[BlackId "richardzt#7163"]
-[WhiteElo "879"]
-[BlackElo "829"]
-
-{[%SevillaID "7051"]}
-0-1
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.06"]
-[Round "2"]
 [White "librocubiculartist"]
 [Black "am percival"]
 [Result "1-0"]
@@ -596,7 +580,7 @@
 [Round "2"]
 [White "matturen"]
 [Black "DuncanClotfelter"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "matturen#4725"]
 [BlackId "DuncanClotfelter#9283"]
@@ -604,7 +588,7 @@
 [BlackElo "1690"]
 
 {[%SevillaID "7050"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -781,6 +765,22 @@
 
 {[%SevillaID "7102"]}
 1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.06"]
+[Round "2"]
+[White "richardzt"]
+[Black "JSS05001"]
+[Result "0-1"]
+[Section "Group A (NA/SA)"]
+[WhiteId "richardzt#7163"]
+[BlackId "JSS05001#5354"]
+[WhiteElo "829"]
+[BlackElo "879"]
+
+{[%SevillaID "7051"]}
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
