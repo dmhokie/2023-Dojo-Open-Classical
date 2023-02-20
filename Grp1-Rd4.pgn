@@ -34,6 +34,22 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
+[White "ashesfallx"]
+[Black "exequiel3"]
+[Result "*"]
+[Section "Group A (NA/SA)"]
+[WhiteId "ashesfall#7206"]
+[BlackId "Exequiel3#0031"]
+[WhiteElo "499"]
+[BlackElo "917"]
+
+{[%SevillaID "7547"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.20"]
+[Round "4"]
 [White "bgcube007"]
 [Black "crooney314"]
 [Result "*"]
@@ -396,22 +412,6 @@
 [BlackElo "672"]
 
 {[%SevillaID "7539"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.20"]
-[Round "4"]
-[White "ashesfallx"]
-[Black "exequiel3"]
-[Result "*"]
-[Section "Group A (NA/SA)"]
-[WhiteId "ashesfall#7206"]
-[BlackId "Exequiel3#0031"]
-[WhiteElo "499"]
-[BlackElo "917"]
-
-{[%SevillaID "7547"]}
 *
 
 [Event "2023 Dojo Open Classical"]
