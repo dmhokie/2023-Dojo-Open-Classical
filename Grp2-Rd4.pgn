@@ -130,6 +130,22 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
+[White "dekkard79"]
+[Black "KhaledAmir21"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "dekkard#8691"]
+[BlackId "KhaledAmir#8503"]
+[WhiteElo "1671"]
+[BlackElo "1700"]
+
+{[%SevillaID "7591"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.20"]
+[Round "4"]
 [White "DerDichterUndDenker"]
 [Black "lux-kineck"]
 [Result "*"]
