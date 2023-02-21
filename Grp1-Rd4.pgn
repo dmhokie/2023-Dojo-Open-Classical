@@ -2,22 +2,6 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
-[White "PolskiPower"]
-[Black "scradam"]
-[Result "*"]
-[Section "Group A (NA/SA)"]
-[WhiteId "PolskiPower#6038"]
-[BlackId "DrWhiskers"]
-[WhiteElo "1417"]
-[BlackElo "2100"]
-
-{[%SevillaID "7538"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.20"]
-[Round "4"]
 [White "agedwhitecheddar"]
 [Black "maximsmillan"]
 [Result "*"]
@@ -27,7 +11,7 @@
 [WhiteElo "2164"]
 [BlackElo "1669"]
 
-{[%SevillaID "7560"]}
+{[%SevillaID "7538"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -83,13 +67,13 @@
 [Date "2023.02.20"]
 [Round "4"]
 [White "Blundernot"]
-[Black "JSS05001"]
+[Black "thundermullet"]
 [Result "*"]
 [Section "Group A (NA/SA)"]
 [WhiteId "Blundernot#5399"]
-[BlackId "JSS05001#5354"]
+[BlackId "ThunderMullet#1783"]
 [WhiteElo "786"]
-[BlackElo "879"]
+[BlackElo "1564"]
 
 {[%SevillaID "7545"]}
 *
@@ -498,6 +482,22 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
+[White "JSS05001"]
+[Black "JustChillJoe"]
+[Result "*"]
+[Section "Group A (NA/SA)"]
+[WhiteId "JSS05001#5354"]
+[BlackId "JustChillJoe#0347"]
+[WhiteElo "879"]
+[BlackElo "1602"]
+
+{[%SevillaID "7543"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.20"]
+[Round "4"]
 [White "KlutchEZ"]
 [Black "dwayneinnashville"]
 [Result "*"]
@@ -738,8 +738,6 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
-<<<<<<< HEAD
-=======
 [White "PolskiPower"]
 [Black "scradam"]
 [Result "*"]
@@ -756,23 +754,6 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
-[White "Raindog2"]
-[Black "kyle b81"]
-[Result "*"]
-[Section "Group A (NA/SA)"]
-[WhiteId "Griff#5674"]
-[BlackId "kyle_b#9289"]
-[WhiteElo "1458"]
-[BlackElo "1620"]
-
-{[%SevillaID "7570"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.20"]
-[Round "4"]
->>>>>>> parent of 30e97ac (gg)
 [White "RikkoFrikko"]
 [Black "ProfessionalPatzer2"]
 [Result "*"]
@@ -831,22 +812,6 @@
 [BlackElo "1000"]
 
 {[%SevillaID "7551"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.20"]
-[Round "4"]
-[White "thundermullet"]
-[Black "JustChillJoe"]
-[Result "*"]
-[Section "Group A (NA/SA)"]
-[WhiteId "ThunderMullet#1783"]
-[BlackId "JustChillJoe#0347"]
-[WhiteElo "1564"]
-[BlackElo "1602"]
-
-{[%SevillaID "7543"]}
 *
 
 [Event "2023 Dojo Open Classical"]

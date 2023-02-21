@@ -162,13 +162,13 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
-[White "fathugo"]
+[White "domvmd"]
 [Black "dan shields"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
-[WhiteId "fathugo #2916"]
+[WhiteId "domvmd#3322"]
 [BlackId "#danshields9606"]
-[WhiteElo "2160"]
+[WhiteElo "756"]
 [BlackElo "1914"]
 
 {[%SevillaID "7522"]}
@@ -227,13 +227,13 @@
 [Date "2023.02.20"]
 [Round "4"]
 [White "Kevsteramp"]
-[Black "domvmd"]
+[Black "fathugo"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "kevsteramp#2886"]
-[BlackId "domvmd#3322"]
+[BlackId "fathugo #2916"]
 [WhiteElo "1291"]
-[BlackElo "756"]
+[BlackElo "2160"]
 
 {[%SevillaID "7508"]}
 *
