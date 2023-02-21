@@ -3,13 +3,13 @@
 [Date "2023.02.20"]
 [Round "4"]
 [White "PolskiPower"]
-[Black "maximsmillan"]
+[Black "scradam"]
 [Result "*"]
 [Section "Group A (NA/SA)"]
 [WhiteId "PolskiPower#6038"]
-[BlackId "maximus#9085"]
+[BlackId "DrWhiskers"]
 [WhiteElo "1417"]
-[BlackElo "1669"]
+[BlackElo "2100"]
 
 {[%SevillaID "7538"]}
 *
@@ -19,13 +19,13 @@
 [Date "2023.02.20"]
 [Round "4"]
 [White "agedwhitecheddar"]
-[Black "scradam"]
+[Black "maximsmillan"]
 [Result "*"]
 [Section "Group A (NA/SA)"]
 [WhiteId "agedwhitecheddar#0198"]
-[BlackId "DrWhiskers"]
+[BlackId "maximus#9085"]
 [WhiteElo "2164"]
-[BlackElo "2100"]
+[BlackElo "1669"]
 
 {[%SevillaID "7560"]}
 *
