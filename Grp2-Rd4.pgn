@@ -2,22 +2,6 @@
 [Site "chess.com"]
 [Date "2023.02.20"]
 [Round "4"]
-[White "abhinav92chess"]
-[Black "tatagrandms"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "abhinavk#3238"]
-[BlackId "O_o#0550"]
-[WhiteElo "1238"]
-[BlackElo "1500"]
-
-{[%SevillaID "7517"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.02.20"]
-[Round "4"]
 [White "acye"]
 [Black "depanis"]
 [Result "1-0"]
@@ -100,7 +84,7 @@
 [Round "4"]
 [White "chessmonger42"]
 [Black "azurata"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "chessmonger42#3779"]
 [BlackId "ZeeSteen#2143"]
@@ -108,7 +92,7 @@
 [BlackElo "1480"]
 
 {[%SevillaID "7529"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -132,7 +116,7 @@
 [Round "4"]
 [White "dekkard79"]
 [Black "KhaledAmir21"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "dekkard#8691"]
 [BlackId "KhaledAmir#8503"]
@@ -140,7 +124,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "7591"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -212,7 +196,7 @@
 [Round "4"]
 [White "headcanon"]
 [Black "Chesspirate Channel"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "headcanon#2403"]
 [BlackId "Chesspirate_Channel"]
@@ -220,7 +204,7 @@
 [BlackElo "2284"]
 
 {[%SevillaID "7507"]}
-*
+1/2-1/2
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -404,7 +388,7 @@
 [Round "4"]
 [White "QSophie"]
 [Black "Djydjy22"]
-[Result "*"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "SophieB#9183"]
 [BlackId "Toni#9134"]
@@ -412,7 +396,7 @@
 [BlackElo "800"]
 
 {[%SevillaID "7514"]}
-*
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -460,6 +444,22 @@
 [BlackElo "1430"]
 
 {[%SevillaID "7525"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.02.20"]
+[Round "4"]
+[White "tatagrandms"]
+[Black "abhinav92chess"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "O_o#0550"]
+[BlackId "abhinavk#3238"]
+[WhiteElo "1500"]
+[BlackElo "1238"]
+
+{[%SevillaID "7517"]}
 1-0
 
 [Event "2023 Dojo Open Classical"]
