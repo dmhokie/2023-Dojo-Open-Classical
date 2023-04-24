@@ -260,7 +260,7 @@
 [Round "11"]
 [White "leedw2"]
 [Black "DadofZak"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "StA#1030"]
 [BlackId "DadofZak(C,+1)#5868"]
@@ -268,7 +268,7 @@
 [BlackElo "1600"]
 
 {[%SevillaID "8323"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -340,7 +340,7 @@
 [Round "11"]
 [White "Oberlus Chinaski"]
 [Black "kauberdi"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Oberlus_Chinaski (L,C, +1)#8167"]
 [BlackId "kauberdi#4599"]
@@ -348,7 +348,7 @@
 [BlackElo "1320"]
 
 {[%SevillaID "8322"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
