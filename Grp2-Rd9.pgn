@@ -258,17 +258,17 @@
 [Site "chess.com"]
 [Date "2023.03.27"]
 [Round "9"]
-[White "MezIpa"]
-[Black "Oberlus Chinaski"]
-[Result "1/2-1/2"]
+[White "Oberlus Chinaski"]
+[Black "MezIpa"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
-[WhiteId "Genipa (C/L - UTC+2) #0322"]
-[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
-[WhiteElo "1430"]
-[BlackElo "1170"]
+[WhiteId "Oberlus_Chinaski (L,C, +1)#8167"]
+[BlackId "Genipa (C/L - UTC+2) #0322"]
+[WhiteElo "1170"]
+[BlackElo "1430"]
 
 {[%SevillaID "8156"]}
-1/2-1/2
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]

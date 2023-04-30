@@ -196,7 +196,7 @@
 [Round "11"]
 [White "Graceclaw"]
 [Black "badslinkie"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "Graceclaw#1735"]
 [BlackId "badslinkie#9603"]
@@ -204,7 +204,7 @@
 [BlackElo "1600"]
 
 {[%SevillaID "8350"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -372,7 +372,7 @@
 [Round "11"]
 [White "Metalinguistic"]
 [Black "crooney314"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "Metalinguistic #9794"]
 [BlackId "charlie314#7930"]
@@ -380,7 +380,7 @@
 [BlackElo "1334"]
 
 {[%SevillaID "8347"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
