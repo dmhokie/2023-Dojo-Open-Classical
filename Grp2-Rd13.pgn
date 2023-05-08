@@ -52,7 +52,7 @@
 [Round "13"]
 [White "chessie102"]
 [Black "nilswashere2"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "chessie102#7363"]
 [BlackId "Gadsby"]
@@ -60,7 +60,7 @@
 [BlackElo "1600"]
 
 {[%SevillaID "8618"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "13"]
 [White "chessmonger42"]
 [Black "dan shields"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "chessmonger42#3779"]
 [BlackId "#danshields9606"]
@@ -76,7 +76,7 @@
 [BlackElo "1914"]
 
 {[%SevillaID "8628"]}
-*
+1/2-1/2
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "13"]
 [White "EKersh"]
 [Black "Akshat3245"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "geezer#7024"]
 [BlackId "Akshat3245"]
@@ -140,7 +140,7 @@
 [BlackElo "1789"]
 
 {[%SevillaID "8622"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "13"]
 [White "Green7001"]
 [Black "GM-Wajdan"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Dave Reed#4339"]
 [BlackId "Warrior Wajdan#8019"]
@@ -172,7 +172,7 @@
 [BlackElo "567"]
 
 {[%SevillaID "8634"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -180,7 +180,7 @@
 [Round "13"]
 [White "headcanon"]
 [Black "alexGlasgow"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "headcanon#2403"]
 [BlackId "KingPrawn#9381"]
@@ -188,7 +188,7 @@
 [BlackElo "1548"]
 
 {[%SevillaID "8619"]}
-*
+1/2-1/2
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -228,7 +228,7 @@
 [Round "13"]
 [White "JohnFabulous"]
 [Black "kingzing123"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "CaptainJohn #4912"]
 [BlackId "andy12345678#4508"]
@@ -236,7 +236,7 @@
 [BlackElo "1668"]
 
 {[%SevillaID "8614"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "13"]
 [White "KhaledAmir21"]
 [Black "mrbenoni"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "KhaledAmir#8503"]
 [BlackId "Reach out on Chess.com"]
@@ -252,7 +252,7 @@
 [BlackElo "1869"]
 
 {[%SevillaID "8625"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "13"]
 [White "Leverq"]
 [Black "bwise23"]
-[Result "*"]
+[Result "1-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Leverq#4022"]
 [BlackId "JackSparrow#2553"]
@@ -268,7 +268,7 @@
 [BlackElo "1753"]
 
 {[%SevillaID "8626"]}
-*
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "13"]
 [White "m1rk0"]
 [Black "Oskar anton"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "#m1rk0"]
 [BlackId "Ozzy#7876"]
@@ -284,7 +284,7 @@
 [BlackElo "1617"]
 
 {[%SevillaID "8620"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -324,7 +324,7 @@
 [Round "13"]
 [White "NowzGaming"]
 [Black "rubenrodrigues"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "NowzGaming#1469"]
 [BlackId "captain caralho#3969"]
@@ -332,7 +332,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "8611"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -340,7 +340,7 @@
 [Round "13"]
 [White "ovalfester3164"]
 [Black "vim tmux"]
-[Result "*"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "ray.jbrmC3#5180"]
 [BlackId "Ross067#8636"]
@@ -348,7 +348,7 @@
 [BlackElo "1500"]
 
 {[%SevillaID "8610"]}
-*
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -356,7 +356,7 @@
 [Round "13"]
 [White "Quincti1ius"]
 [Black "Skakikaki"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Quincti1ius#6217"]
 [BlackId "Skakikaki#6264"]
@@ -364,7 +364,7 @@
 [BlackElo "968"]
 
 {[%SevillaID "8624"]}
-*
+0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -420,7 +420,7 @@
 [Round "13"]
 [White "wocash"]
 [Black "ColinGrM"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "wocash#0760"]
 [BlackId "ColinG#0636"]
@@ -428,6 +428,6 @@
 [BlackElo "1526"]
 
 {[%SevillaID "8612"]}
-*
+0-0
 
 
