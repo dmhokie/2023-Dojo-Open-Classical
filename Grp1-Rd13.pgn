@@ -4,7 +4,7 @@
 [Round "13"]
 [White "badslinkie"]
 [Black "mapview"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "badslinkie#9603"]
 [BlackId "mapview#5499"]
@@ -12,7 +12,7 @@
 [BlackElo "1888"]
 
 {[%SevillaID "8587"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "13"]
 [White "Black And White Thinking"]
 [Black "TheGuacProdigy"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "georgiafan#7118"]
 [BlackId "GMGuac#5172"]
@@ -60,7 +60,7 @@
 [BlackElo "701"]
 
 {[%SevillaID "8582"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
