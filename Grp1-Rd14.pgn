@@ -242,7 +242,7 @@
 [Site "chess.com"]
 [Date "2023.05.08"]
 [Round "14"]
-[White "happy_pieces"]
+[White "knownothing123"]
 [Black "welshready"]
 [Result "1/2-1/2"]
 [Section "Group A (NA/SA)"]
@@ -276,7 +276,7 @@
 [Round "14"]
 [White "jenesuispasdave"]
 [Black "hailbo"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "jenesuispasdave#1523"]
 [BlackId "hailbo#6804"]
@@ -284,7 +284,7 @@
 [BlackElo "1032"]
 
 {[%SevillaID "8648"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
