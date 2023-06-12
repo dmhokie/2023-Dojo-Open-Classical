@@ -36,7 +36,7 @@
 [Round "17"]
 [White "Chodous3"]
 [Black "Gengis66"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "BroChodous#2280"]
 [BlackId "Gengis#3756"]
@@ -44,7 +44,7 @@
 [BlackElo "1828"]
 
 {[%SevillaID "9028"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "17"]
 [White "gpetris"]
 [Black "bgcube007"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "gpetris#1791"]
 [BlackId "bgcube007#2494"]
@@ -220,7 +220,7 @@
 [BlackElo "1355"]
 
 {[%SevillaID "9025"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -452,7 +452,7 @@
 [Round "17"]
 [White "realMadcapTV"]
 [Black "zthomp24"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Group A (NA/SA)"]
 [WhiteId "realMadcapTV#7941"]
 [BlackId "DAPZ#8581"]
@@ -460,7 +460,7 @@
 [BlackElo "1470"]
 
 {[%SevillaID "9026"]}
-0-0
+1-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -596,7 +596,7 @@
 [Round "17"]
 [White "WoodJRx"]
 [Black "Barnstorm"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group A (NA/SA)"]
 [WhiteId "WoodJRx#3793"]
 [BlackId "Barnstorm#2520"]
@@ -604,6 +604,6 @@
 [BlackElo "1283"]
 
 {[%SevillaID "9027"]}
-0-0
+0-1
 
 
