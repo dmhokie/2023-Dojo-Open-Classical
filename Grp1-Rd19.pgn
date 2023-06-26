@@ -274,22 +274,6 @@
 [Site "chess.com"]
 [Date "2023.06.11"]
 [Round "19"]
-[White "jxdlam"]
-[Black "Lutin23"]
-[Result "0-1"]
-[Section "Group A (NA/SA)"]
-[WhiteId "jxdlam#7410"]
-[BlackId "Lutin23#6815"]
-[WhiteElo "1233"]
-[BlackElo "1372"]
-
-{[%SevillaID "9256"]}
-0-1
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.06.11"]
-[Round "19"]
 [White "kyle b81"]
 [Black "onamonapia"]
 [Result "1-0"]
@@ -301,22 +285,6 @@
 
 {[%SevillaID "9255"]}
 1-0
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.06.11"]
-[Round "19"]
-[White "lucek90"]
-[Black "TheGreatKingHenry"]
-[Result "0-0"]
-[Section "Group A (NA/SA)"]
-[WhiteId "lucek90#4638"]
-[BlackId "TheGreatKingHenry #7794"]
-[WhiteElo "826"]
-[BlackElo "652"]
-
-{[%SevillaID "9254"]}
-0-0
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
@@ -548,7 +516,7 @@
 [Round "19"]
 [White "zthomp24"]
 [Black "sledgehammergray"]
-[Result "0-0"]
+[Result "1/2-1/2"]
 [Section "Group A (NA/SA)"]
 [WhiteId "DAPZ#8581"]
 [BlackId "sledgehammergray#6650"]
@@ -556,6 +524,6 @@
 [BlackElo "1397"]
 
 {[%SevillaID "9243"]}
-0-0
+1/2-1/2
 
 
