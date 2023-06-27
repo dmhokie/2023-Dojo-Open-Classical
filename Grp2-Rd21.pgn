@@ -163,13 +163,13 @@
 [Date "2023.06.26"]
 [Round "21"]
 [White "Binghamm96"]
-[Black "dan shields"]
+[Black "Oberlus Chinaski"]
 [Result "*"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Binghamm#5247"]
-[BlackId "#danshields9606"]
+[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
 [WhiteElo "1519"]
-[BlackElo "1914"]
+[BlackElo "1170"]
 
 {[%SevillaID "9707"]}
 *
@@ -252,22 +252,6 @@
 [BlackElo "1340"]
 
 {[%SevillaID "9706"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.06.26"]
-[Round "21"]
-[White "Ilgson"]
-[Black "loanedpawn"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Ilgson#5727"]
-[BlackId "#Loanedpawn"]
-[WhiteElo "1584"]
-[BlackElo "2020"]
-
-{[%SevillaID "9708"]}
 *
 
 [Event "2023 Dojo Open Classical"]
@@ -508,6 +492,22 @@
 [BlackElo "1991"]
 
 {[%SevillaID "9689"]}
+*
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.06.26"]
+[Round "21"]
+[White "dan shields"]
+[Black "loanedpawn"]
+[Result "*"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "#danshields9606"]
+[BlackId "#Loanedpawn"]
+[WhiteElo "1914"]
+[BlackElo "2020"]
+
+{[%SevillaID "9712"]}
 *
 
 
