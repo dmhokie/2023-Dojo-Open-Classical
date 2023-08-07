@@ -514,9 +514,9 @@
 [Site "chess.com"]
 [Date "2023.07.17"]
 [Round "23"]
-[White "squarezou"]
+[White "Leavzou"]
 [Black "IThoughtUGNU"]
-[Result "1-0"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Leavzou#6109"]
 [BlackId "IThoughtUGNU#5820"]
@@ -524,7 +524,7 @@
 [BlackElo "1947"]
 
 {[%SevillaID "9918"]}
-1-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
