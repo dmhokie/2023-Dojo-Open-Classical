@@ -115,11 +115,11 @@
 [Date "2023.08.07"]
 [Round "26"]
 [White "Dan-Jon"]
-[Black "Leavzou"]
+[Black "squarezou"]
 [Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "Moka Efti #3195"]
-[BlackId "Leavzou#6109"]
+[BlackId "Leavzou"]
 [WhiteElo "1740"]
 [BlackElo "1560"]
 
@@ -388,7 +388,7 @@
 [Round "26"]
 [White "Seantheprawn18"]
 [Black "PlanescapeTorment"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "SeanG#8516"]
 [BlackId "Dendra#8049"]
@@ -396,7 +396,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "10395"]}
-0-0
+0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]

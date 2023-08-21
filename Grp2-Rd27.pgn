@@ -2,521 +2,9 @@
 [Site "chess.com"]
 [Date "2023.08.14"]
 [Round "27"]
-[White "Chesspirate Channel"]
-[Black "JoshMcK"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Chesspirate_Channel"]
-[BlackId "HeyMyNameIsJosh#8721"]
-[WhiteElo "2284"]
-[BlackElo "1900"]
-
-{[%SevillaID "10400"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "headcanon"]
-[Black "Lutin23"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "headcanon#2403"]
-[BlackId "Lutin23#6815"]
-[WhiteElo "1789"]
-[BlackElo "1372"]
-
-{[%SevillaID "10396"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "tousbous"]
-[Black "AlbinBlumenfeld"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "tryps1n"]
-[BlackId "Marino#7648"]
-[WhiteElo "2282"]
-[BlackElo "2169"]
-
-{[%SevillaID "10398"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "loanedpawn"]
-[Black "intentionally-blank"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "#Loanedpawn"]
-[BlackId "zlaire#1478"]
-[WhiteElo "2020"]
-[BlackElo "1849"]
-
-{[%SevillaID "10412"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Vasikia"]
-[Black "thebattlecrw"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "#sagethemazemageinacage"]
-[BlackId "thebattlecrw"]
-[WhiteElo "1625"]
-[BlackElo "1599"]
-
-{[%SevillaID "10416"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Padamundo"]
-[Black "fathugo"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Padamundo#8561"]
-[BlackId "fathugo #2916"]
-[WhiteElo "2108"]
-[BlackElo "2160"]
-
-{[%SevillaID "10408"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "IThoughtUGNU"]
-[Black "delusion47"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "IThoughtUGNU#5820"]
-[BlackId "jurica32#8967"]
-[WhiteElo "1947"]
-[BlackElo "2001"]
-
-{[%SevillaID "10406"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Weekesy90"]
-[Black "doctor_otacon"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Cweekes90"]
-[BlackId "mld07"]
-[WhiteElo "1327"]
-[BlackElo "775"]
-
-{[%SevillaID "10410"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "ceithearnach"]
-[Black "leedw2"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Ceithearnach#5889"]
-[BlackId "StA#1030"]
-[WhiteElo "1337"]
-[BlackElo "1340"]
-
-{[%SevillaID "10414"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "beavillata"]
-[Black "Leavzou"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "beatricevillata"]
-[BlackId "Leavzou#6109"]
-[WhiteElo "1350"]
-[BlackElo "1560"]
-
-{[%SevillaID "10420"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "yaR 33"]
-[Black "seimerl"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "yaR_33#0033"]
-[BlackId "seimerl#2502"]
-[WhiteElo "1704"]
-[BlackElo "1280"]
-
-{[%SevillaID "10404"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "lucek90"]
-[Black "Green7001"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "lucek90#4638"]
-[BlackId "Dave Reed#4339"]
-[WhiteElo "826"]
-[BlackElo "883"]
-
-{[%SevillaID "10419"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "vmaltezos"]
-[Black "Quincti1ius"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "vmaltezos#2951"]
-[BlackId "Quincti1ius#6217"]
-[WhiteElo "1400"]
-[BlackElo "1116"]
-
-{[%SevillaID "10422"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Clarkp56"]
-[Black "Oberlus Chinaski"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Clarkp56(#9024)"]
-[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
-[WhiteElo "838"]
-[BlackElo "1170"]
-
-{[%SevillaID "10402"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "LaNeraTorre"]
-[Black "figgeous"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "LaNeraTorre#9647"]
-[BlackId "figgeous#1182"]
-[WhiteElo "1333"]
-[BlackElo "1500"]
-
-{[%SevillaID "10418"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "timo224"]
-[Black "Seantheprawn18"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "timo5773"]
-[BlackId "SeanG#8516"]
-[WhiteElo "2142"]
-[BlackElo "2128"]
-
-{[%SevillaID "10424"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "chessforartist"]
-[Black "PlanescapeTorment"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "chess artist#6201"]
-[BlackId "Dendra#8049"]
-[WhiteElo "2247"]
-[BlackElo "2000"]
-
-{[%SevillaID "10428"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "BrunoMartens"]
-[Black "Micheal964"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "brunomartens"]
-[BlackId "Mocca24#4468"]
-[WhiteElo "1066"]
-[BlackElo "1541"]
-
-{[%SevillaID "10426"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "chessie102"]
-[Black "Oskar anton"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "chessie102#7363"]
-[BlackId "Ozzy#7876"]
-[WhiteElo "1472"]
-[BlackElo "1617"]
-
-{[%SevillaID "10401"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Mbhkingjordan"]
-[Black "Invincible david"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Lucky #7263"]
-[BlackId "Invincible"]
-[WhiteElo "1553"]
-[BlackElo "1724"]
-
-{[%SevillaID "10403"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "conarsinton"]
-[Black "kauberdi"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "97Conar"]
-[BlackId "kauberdi#4599"]
-[WhiteElo "971"]
-[BlackElo "1320"]
-
-{[%SevillaID "10425"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "vim tmux"]
-[Black "iamjameel"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Ross067#8636"]
-[BlackId "iamjameel"]
-[WhiteElo "1500"]
-[BlackElo "1991"]
-
-{[%SevillaID "10411"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "chasethesun100"]
-[Black "wocash"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Anian#2459"]
-[BlackId "wocash#0760"]
-[WhiteElo "2003"]
-[BlackElo "1723"]
-
-{[%SevillaID "10413"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "fgueho"]
-[Black "Caps Chess"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "fgueho"]
-[BlackId "CapsChess#9250"]
-[WhiteElo "817"]
-[BlackElo "964"]
-
-{[%SevillaID "10417"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "kingzing123"]
-[Black "m1rk0"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "andy12345678#4508"]
-[BlackId "#m1rk0"]
-[WhiteElo "1668"]
-[BlackElo "1720"]
-
-{[%SevillaID "10405"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "dan shields"]
-[Black "Badaron"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "#danshields9606"]
-[BlackId "Khemorius#0965"]
-[WhiteElo "1914"]
-[BlackElo "2003"]
-
-{[%SevillaID "10427"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Binghamm96"]
-[Black "TimeRunOut"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Binghamm#5247"]
-[BlackId "chess_addict_"]
-[WhiteElo "1519"]
-[BlackElo "2000"]
-
-{[%SevillaID "10423"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Samsa662"]
-[Black "Abhinandan Sahil"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Samsa662#6148"]
-[BlackId "Abhinandan_Sahil#1962"]
-[WhiteElo "1300"]
-[BlackElo "1610"]
-
-{[%SevillaID "10421"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "JohnFabulous"]
-[Black "deetm"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "CaptainJohn #4912"]
-[BlackId "makeitso"]
-[WhiteElo "2000"]
-[BlackElo "1784"]
-
-{[%SevillaID "10397"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Sonecon"]
-[Black "depanis"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Sonecon#4205"]
-[BlackId "depanis"]
-[WhiteElo "2220"]
-[BlackElo "1990"]
-
-{[%SevillaID "10415"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "nilswashere2"]
-[Black "Prab76"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Gadsby"]
-[BlackId "Prab76#5267"]
-[WhiteElo "1600"]
-[BlackElo "2060"]
-
-{[%SevillaID "10399"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
-[White "Ireniicus"]
-[Black "EKersh"]
-[Result "*"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "Ireniicus#5115"]
-[BlackId "geezer#7024"]
-[WhiteElo "1758"]
-[BlackElo "2000"]
-
-{[%SevillaID "10409"]}
-*
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.08.14"]
-[Round "27"]
 [White "Ana Williams Chess"]
 [Black "tmp"]
-[Result "*"]
+[Result "0-0"]
 [Section "Group B (EU/AS/AF)"]
 [WhiteId "tallAna#3038"]
 [BlackId "Temphin#3019"]
@@ -524,6 +12,518 @@
 [BlackElo "1788"]
 
 {[%SevillaID "10407"]}
-*
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "beavillata"]
+[Black "squarezou"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "beatricevillata"]
+[BlackId "Leavzou"]
+[WhiteElo "1350"]
+[BlackElo "1560"]
+
+{[%SevillaID "10420"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Binghamm96"]
+[Black "TimeRunOut"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Binghamm#5247"]
+[BlackId "chess_addict_"]
+[WhiteElo "1519"]
+[BlackElo "2000"]
+
+{[%SevillaID "10423"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Micheal964"]
+[Black "BrunoMartens"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Mocca24#4468"]
+[BlackId "brunomartens"]
+[WhiteElo "1541"]
+[BlackElo "1066"]
+
+{[%SevillaID "10426"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "ceithearnach"]
+[Black "leedw2"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Ceithearnach#5889"]
+[BlackId "StA#1030"]
+[WhiteElo "1337"]
+[BlackElo "1340"]
+
+{[%SevillaID "10414"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "chasethesun100"]
+[Black "wocash"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Anian#2459"]
+[BlackId "wocash#0760"]
+[WhiteElo "2003"]
+[BlackElo "1723"]
+
+{[%SevillaID "10413"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "chessforartist"]
+[Black "PlanescapeTorment"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "chess artist#6201"]
+[BlackId "Dendra#8049"]
+[WhiteElo "2247"]
+[BlackElo "2000"]
+
+{[%SevillaID "10428"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "chessie102"]
+[Black "Oskar anton"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "chessie102#7363"]
+[BlackId "Ozzy#7876"]
+[WhiteElo "1472"]
+[BlackElo "1617"]
+
+{[%SevillaID "10401"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Chesspirate Channel"]
+[Black "JoshMcK"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Chesspirate_Channel"]
+[BlackId "HeyMyNameIsJosh#8721"]
+[WhiteElo "2284"]
+[BlackElo "1900"]
+
+{[%SevillaID "10400"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Clarkp56"]
+[Black "Oberlus Chinaski"]
+[Result "1/2-1/2"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Clarkp56(#9024)"]
+[BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
+[WhiteElo "838"]
+[BlackElo "1170"]
+
+{[%SevillaID "10402"]}
+1/2-1/2
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "conarsinton"]
+[Black "kauberdi"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "97Conar"]
+[BlackId "kauberdi#4599"]
+[WhiteElo "971"]
+[BlackElo "1320"]
+
+{[%SevillaID "10425"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "dan shields"]
+[Black "Badaron"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "#danshields9606"]
+[BlackId "Khemorius#0965"]
+[WhiteElo "1914"]
+[BlackElo "2003"]
+
+{[%SevillaID "10427"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "fgueho"]
+[Black "Caps Chess"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "fgueho"]
+[BlackId "CapsChess#9250"]
+[WhiteElo "817"]
+[BlackElo "964"]
+
+{[%SevillaID "10417"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "headcanon"]
+[Black "Lutin23"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "headcanon#2403"]
+[BlackId "Lutin23#6815"]
+[WhiteElo "1789"]
+[BlackElo "1372"]
+
+{[%SevillaID "10396"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Ireniicus"]
+[Black "EKersh"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Ireniicus#5115"]
+[BlackId "geezer#7024"]
+[WhiteElo "1758"]
+[BlackElo "2000"]
+
+{[%SevillaID "10409"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "IThoughtUGNU"]
+[Black "delusion47"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "IThoughtUGNU#5820"]
+[BlackId "jurica32#8967"]
+[WhiteElo "1947"]
+[BlackElo "2001"]
+
+{[%SevillaID "10406"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "JohnFabulous"]
+[Black "deetm"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "CaptainJohn #4912"]
+[BlackId "makeitso"]
+[WhiteElo "2000"]
+[BlackElo "1784"]
+
+{[%SevillaID "10397"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "kingzing123"]
+[Black "m1rk0"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "andy12345678#4508"]
+[BlackId "#m1rk0"]
+[WhiteElo "1668"]
+[BlackElo "1720"]
+
+{[%SevillaID "10405"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "LaNeraTorre"]
+[Black "figgeous"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "LaNeraTorre#9647"]
+[BlackId "figgeous#1182"]
+[WhiteElo "1333"]
+[BlackElo "1500"]
+
+{[%SevillaID "10418"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "loanedpawn"]
+[Black "intentionally-blank"]
+[Result "1/2-1/2"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "#Loanedpawn"]
+[BlackId "zlaire#1478"]
+[WhiteElo "2020"]
+[BlackElo "1849"]
+
+{[%SevillaID "10412"]}
+1/2-1/2
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "lucek90"]
+[Black "Green7001"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "lucek90#4638"]
+[BlackId "Dave Reed#4339"]
+[WhiteElo "826"]
+[BlackElo "883"]
+
+{[%SevillaID "10419"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Mbhkingjordan"]
+[Black "Invincible david"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Lucky #7263"]
+[BlackId "Invincible"]
+[WhiteElo "1553"]
+[BlackElo "1724"]
+
+{[%SevillaID "10403"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "nilswashere2"]
+[Black "Prab76"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Gadsby"]
+[BlackId "Prab76#5267"]
+[WhiteElo "1600"]
+[BlackElo "2060"]
+
+{[%SevillaID "10399"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Padamundo"]
+[Black "fathugo"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Padamundo#8561"]
+[BlackId "fathugo #2916"]
+[WhiteElo "2108"]
+[BlackElo "2160"]
+
+{[%SevillaID "10408"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Samsa662"]
+[Black "Abhinandan Sahil"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Samsa662#6148"]
+[BlackId "Abhinandan_Sahil#1962"]
+[WhiteElo "1300"]
+[BlackElo "1610"]
+
+{[%SevillaID "10421"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Sonecon"]
+[Black "depanis"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Sonecon#4205"]
+[BlackId "depanis"]
+[WhiteElo "2220"]
+[BlackElo "1990"]
+
+{[%SevillaID "10415"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "timo224"]
+[Black "Seantheprawn18"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "timo5773"]
+[BlackId "SeanG#8516"]
+[WhiteElo "2142"]
+[BlackElo "2128"]
+
+{[%SevillaID "10424"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "tousbous"]
+[Black "AlbinBlumenfeld"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "tryps1n"]
+[BlackId "Marino#7648"]
+[WhiteElo "2282"]
+[BlackElo "2169"]
+
+{[%SevillaID "10398"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Vasikia"]
+[Black "thebattlecrw"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "#sagethemazemageinacage"]
+[BlackId "thebattlecrw"]
+[WhiteElo "1625"]
+[BlackElo "1599"]
+
+{[%SevillaID "10416"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "vim tmux"]
+[Black "iamjameel"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Ross067#8636"]
+[BlackId "iamjameel"]
+[WhiteElo "1500"]
+[BlackElo "1991"]
+
+{[%SevillaID "10411"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "vmaltezos"]
+[Black "Quincti1ius"]
+[Result "0-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "vmaltezos#2951"]
+[BlackId "Quincti1ius#6217"]
+[WhiteElo "1400"]
+[BlackElo "1116"]
+
+{[%SevillaID "10422"]}
+0-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "Weekesy90"]
+[Black "doctor_otacon"]
+[Result "1-0"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "Cweekes90"]
+[BlackId "mld07"]
+[WhiteElo "1327"]
+[BlackElo "775"]
+
+{[%SevillaID "10410"]}
+1-0
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.08.14"]
+[Round "27"]
+[White "yaR 33"]
+[Black "seimerl"]
+[Result "1/2-1/2"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "yaR_33#0033"]
+[BlackId "seimerl#2502"]
+[WhiteElo "1704"]
+[BlackElo "1280"]
+
+{[%SevillaID "10404"]}
+1/2-1/2
 
 
