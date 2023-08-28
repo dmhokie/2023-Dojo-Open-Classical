@@ -306,6 +306,22 @@
 [Site "chess.com"]
 [Date "2023.01.30"]
 [Round "1"]
+[White "alexGlasgow"]
+[Black "Leavzou"]
+[Result "0-1"]
+[Section "Group B (EU/AS/AF)"]
+[WhiteId "KingPrawn#9381"]
+[BlackId "Leavzou"]
+[WhiteElo "1548"]
+[BlackElo "1560"]
+
+{[%SevillaID "7042"]}
+0-1
+
+[Event "2023 Dojo Open Classical"]
+[Site "chess.com"]
+[Date "2023.01.30"]
+[Round "1"]
 [White "willm1966"]
 [Black "leedw2"]
 [Result "0-1"]
@@ -509,22 +525,6 @@
 
 {[%SevillaID "7043"]}
 1-0
-
-[Event "2023 Dojo Open Classical"]
-[Site "chess.com"]
-[Date "2023.01.30"]
-[Round "1"]
-[White "alexGlasgow"]
-[Black "squarezou"]
-[Result "0-1"]
-[Section "Group B (EU/AS/AF)"]
-[WhiteId "KingPrawn#9381"]
-[BlackId "Leavzou"]
-[WhiteElo "1548"]
-[BlackElo "1560"]
-
-{[%SevillaID "7042"]}
-0-1
 
 [Event "2023 Dojo Open Classical"]
 [Site "chess.com"]
